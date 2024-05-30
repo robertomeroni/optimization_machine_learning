@@ -1,0 +1,2702 @@
+[
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0001,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019624000764,
+        "r2": 0.5395062636012753
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0001,
+            "kernel": "poly"
+        },
+        "mse": 4.789446372110299,
+        "r2": -3.433629882639112
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0001,
+            "kernel": "rbf"
+        },
+        "mse": 0.6156236167162512,
+        "r2": 0.43011215671490954
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00011312165687240229,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019598030626,
+        "r2": 0.539506263841683
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00011312165687240229,
+            "kernel": "poly"
+        },
+        "mse": 4.685398830095155,
+        "r2": -3.3373122175787486
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00011312165687240229,
+            "kernel": "rbf"
+        },
+        "mse": 0.59542166362599,
+        "r2": 0.44881327077899524
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00012796509253557505,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501964815604,
+        "r2": 0.5395062633776679
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00012796509253557505,
+            "kernel": "poly"
+        },
+        "mse": 4.576956995463648,
+        "r2": -3.2369267197161617
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00012796509253557505,
+            "kernel": "rbf"
+        },
+        "mse": 0.5765061756245097,
+        "r2": 0.4663234935338463
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00014475623289454526,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501958715778,
+        "r2": 0.5395062639423338
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00014475623289454526,
+            "kernel": "poly"
+        },
+        "mse": 4.463386372497071,
+        "r2": -3.131793460325955
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00014475623289454526,
+            "kernel": "rbf"
+        },
+        "mse": 0.5587608897522646,
+        "r2": 0.4827504505569591
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00016375064907638302,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019585722644,
+        "r2": 0.539506263955619
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00016375064907638302,
+            "kernel": "poly"
+        },
+        "mse": 4.343897263563589,
+        "r2": -3.021181409817916
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00016375064907638302,
+            "kernel": "rbf"
+        },
+        "mse": 0.542078392086931,
+        "r2": 0.498193575799322
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00018523744737451738,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019543814706,
+        "r2": 0.5395062643435642
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00018523744737451738,
+            "kernel": "poly"
+        },
+        "mse": 4.2176822931940805,
+        "r2": -2.9043431740825194
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00018523744737451738,
+            "kernel": "rbf"
+        },
+        "mse": 0.5263608456045904,
+        "r2": 0.5127434377983343
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00020954366961819832,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019454694506,
+        "r2": 0.5395062651685573
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00020954366961819832,
+            "kernel": "poly"
+        },
+        "mse": 4.083965476567333,
+        "r2": -2.7805604175910834
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00020954366961819832,
+            "kernel": "rbf"
+        },
+        "mse": 0.5115203697781084,
+        "r2": 0.5264813882804654
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00023703927094333857,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501942308895,
+        "r2": 0.5395062654611325
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00023703927094333857,
+            "kernel": "poly"
+        },
+        "mse": 3.9420618735318316,
+        "r2": -2.6491990856141796
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00023703927094333857,
+            "kernel": "rbf"
+        },
+        "mse": 0.4974790694256214,
+        "r2": 0.5394795354559745
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00026814275072936715,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019341091556,
+        "r2": 0.539506266220189
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00026814275072936715,
+            "kernel": "poly"
+        },
+        "mse": 3.7914460173246547,
+        "r2": -2.5097727492492976
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00026814275072936715,
+            "kernel": "rbf"
+        },
+        "mse": 0.48416874357928125,
+        "r2": 0.5518010135215061
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00030332752240829565,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501926753898,
+        "r2": 0.5395062669010713
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00030332752240829565,
+            "kernel": "poly"
+        },
+        "mse": 3.6318227591684913,
+        "r2": -2.362008186846743
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00030332752240829565,
+            "kernel": "rbf"
+        },
+        "mse": 0.4715303307133561,
+        "r2": 0.5635004962169992
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00034312911909827103,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501920179942,
+        "r2": 0.5395062675096278
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00034312911909827103,
+            "kernel": "poly"
+        },
+        "mse": 3.4631994086011817,
+        "r2": -2.205912164905788
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.00034312911909827103,
+            "kernel": "rbf"
+        },
+        "mse": 0.45951316095306327,
+        "r2": 0.5746248890621175
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0003881533447356427,
+            "kernel": "linear"
+        },
+        "mse": 0.49745019091329623,
+        "r2": 0.5395062685322558
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0003881533447356427,
+            "kernel": "poly"
+        },
+        "mse": 3.285947503455356,
+        "r2": -2.041828619052662
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0003881533447356427,
+            "kernel": "rbf"
+        },
+        "mse": 0.4480740886893384,
+        "r2": 0.5852141323018893
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004390854947706065,
+            "kernel": "linear"
+        },
+        "mse": 0.49745018981855477,
+        "r2": 0.5395062695456669
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004390854947706065,
+            "kernel": "poly"
+        },
+        "mse": 3.100850545136537,
+        "r2": -1.8704828429799405
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004390854947706065,
+            "kernel": "rbf"
+        },
+        "mse": 0.43717657241737773,
+        "r2": 0.5953020527077342
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004967007867708954,
+            "kernel": "linear"
+        },
+        "mse": 0.49745018874978814,
+        "r2": 0.5395062705350331
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004967007867708954,
+            "kernel": "poly"
+        },
+        "mse": 2.909128248045559,
+        "r2": -1.6930039363362401
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0004967007867708954,
+            "kernel": "rbf"
+        },
+        "mse": 0.4267897549133534,
+        "r2": 0.6049172150654389
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0005618761596934942,
+            "kernel": "linear"
+        },
+        "mse": 0.49745018731187635,
+        "r2": 0.5395062718661199
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0005618761596934942,
+            "kernel": "poly"
+        },
+        "mse": 2.7124319125749046,
+        "r2": -1.510920521470891
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0005618761596934942,
+            "kernel": "rbf"
+        },
+        "mse": 0.41688758014720717,
+        "r2": 0.6140837396562462
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0006356036214163056,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501857978097,
+        "r2": 0.5395062732677037
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0006356036214163056,
+            "kernel": "poly"
+        },
+        "mse": 2.5128072521567506,
+        "r2": -1.3261263321266967
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0006356036214163056,
+            "kernel": "rbf"
+        },
+        "mse": 0.407447967922785,
+        "r2": 0.6228220662992654
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0007190053476871153,
+            "kernel": "linear"
+        },
+        "mse": 0.49745018413870556,
+        "r2": 0.5395062748035501
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0007190053476871153,
+            "kernel": "poly"
+        },
+        "mse": 2.3126228105898052,
+        "r2": -1.1408139487708797
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0007190053476871153,
+            "kernel": "rbf"
+        },
+        "mse": 0.39845205479095147,
+        "r2": 0.6311496570444457
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0008133507623048415,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501820898243,
+        "r2": 0.5395062767002163
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0008133507623048415,
+            "kernel": "poly"
+        },
+        "mse": 2.114467625248046,
+        "r2": -0.9573800645860537
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0008133507623048415,
+            "kernel": "rbf"
+        },
+        "mse": 0.3898835026356502,
+        "r2": 0.6390816362201425
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0009200758585035511,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501799064826,
+        "r2": 0.5395062787213536
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0009200758585035511,
+            "kernel": "poly"
+        },
+        "mse": 1.9210241303196163,
+        "r2": -0.7783078309535603
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0009200758585035511,
+            "kernel": "rbf"
+        },
+        "mse": 0.3817278741654882,
+        "r2": 0.6466313685456931
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0010408050556221966,
+            "kernel": "linear"
+        },
+        "mse": 0.49745017735523245,
+        "r2": 0.5395062810830669
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0010408050556221966,
+            "kernel": "poly"
+        },
+        "mse": 1.7349264756773042,
+        "r2": -0.6060357020670513
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0010408050556221966,
+            "kernel": "rbf"
+        },
+        "mse": 0.3739720760479489,
+        "r2": 0.6538109746266538
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001177375923731556,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501745237506,
+        "r2": 0.5395062837041928
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001177375923731556,
+            "kernel": "poly"
+        },
+        "mse": 1.558616454412182,
+        "r2": -0.4428240658659015
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001177375923731556,
+            "kernel": "rbf"
+        },
+        "mse": 0.36660387400210587,
+        "r2": 0.6606317798374612
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0013318671525418874,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501713502777,
+        "r2": 0.5395062866419029
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0013318671525418874,
+            "kernel": "poly"
+        },
+        "mse": 1.394210145203488,
+        "r2": -0.29063179378062065
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0013318671525418874,
+            "kernel": "rbf"
+        },
+        "mse": 0.3596114875000803,
+        "r2": 0.6671046895096251
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0015066301902946669,
+            "kernel": "linear"
+        },
+        "mse": 0.497450167676392,
+        "r2": 0.5395062900428491
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0015066301902946669,
+            "kernel": "poly"
+        },
+        "mse": 1.243387959720929,
+        "r2": -0.15101445670920066
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0015066301902946669,
+            "kernel": "rbf"
+        },
+        "mse": 0.3529832733065897,
+        "r2": 0.6732404818817702
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0017043250342011547,
+            "kernel": "linear"
+        },
+        "mse": 0.49745016356376714,
+        "r2": 0.5395062938499398
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0017043250342011547,
+            "kernel": "poly"
+        },
+        "mse": 1.1073178921327052,
+        "r2": -0.025053276455697215
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0017043250342011547,
+            "kernel": "rbf"
+        },
+        "mse": 0.34670750581312704,
+        "r2": 0.6790500114460926
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001927960717179483,
+            "kernel": "linear"
+        },
+        "mse": 0.49745015896913014,
+        "r2": 0.539506298103233
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001927960717179483,
+            "kernel": "poly"
+        },
+        "mse": 0.9866183186992533,
+        "r2": 0.08667931099168158
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.001927960717179483,
+            "kernel": "rbf"
+        },
+        "mse": 0.340772258032448,
+        "r2": 0.6845443191127408
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002180941107122481,
+            "kernel": "linear"
+        },
+        "mse": 0.49745015369261175,
+        "r2": 0.5395063029877494
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002180941107122481,
+            "kernel": "poly"
+        },
+        "mse": 0.8813624465768974,
+        "r2": 0.18411553716646156
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002180941107122481,
+            "kernel": "rbf"
+        },
+        "mse": 0.3351653808815478,
+        "r2": 0.6897346513877349
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002467116715788262,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501477530232,
+        "r2": 0.5395063084860754
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002467116715788262,
+            "kernel": "poly"
+        },
+        "mse": 0.7911212858794539,
+        "r2": 0.2676525215331821
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002467116715788262,
+            "kernel": "rbf"
+        },
+        "mse": 0.32987457112619845,
+        "r2": 0.6946323974761497
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002790843305875675,
+            "kernel": "linear"
+        },
+        "mse": 0.497450141059835,
+        "r2": 0.5395063146820147
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002790843305875675,
+            "kernel": "poly"
+        },
+        "mse": 0.7150385761168131,
+        "r2": 0.3380829114672014
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.002790843305875675,
+            "kernel": "rbf"
+        },
+        "mse": 0.3248875115262057,
+        "r2": 0.6992489595484979
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0031570481883190895,
+            "kernel": "linear"
+        },
+        "mse": 0.49745013351484013,
+        "r2": 0.5395063216664786
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0031570481883190895,
+            "kernel": "poly"
+        },
+        "mse": 0.6519278548852383,
+        "r2": 0.39650502497004625
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0031570481883190895,
+            "kernel": "rbf"
+        },
+        "mse": 0.3201920614147543,
+        "r2": 0.7035955763198637
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.003571305218886713,
+            "kernel": "linear"
+        },
+        "mse": 0.49745012496226493,
+        "r2": 0.5395063295836677
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.003571305218886713,
+            "kernel": "poly"
+        },
+        "mse": 0.6003804513759337,
+        "r2": 0.4442228801906718
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.003571305218886713,
+            "kernel": "rbf"
+        },
+        "mse": 0.31577647288243044,
+        "r2": 0.707683122926576
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004039919635575223,
+            "kernel": "linear"
+        },
+        "mse": 0.497450115311763,
+        "r2": 0.5395063385172167
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004039919635575223,
+            "kernel": "poly"
+        },
+        "mse": 0.5588733409435849,
+        "r2": 0.48264635356464713
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004039919635575223,
+            "kernel": "rbf"
+        },
+        "mse": 0.3116296072925,
+        "r2": 0.7115219104962345
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004570024028076209,
+            "kernel": "linear"
+        },
+        "mse": 0.4974501044038204,
+        "r2": 0.5395063486147889
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004570024028076209,
+            "kernel": "poly"
+        },
+        "mse": 0.5258671958249234,
+        "r2": 0.5132004134578667
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.004570024028076209,
+            "kernel": "rbf"
+        },
+        "mse": 0.30774112872330694,
+        "r2": 0.7151215070764922
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0051696869000267005,
+            "kernel": "linear"
+        },
+        "mse": 0.4974500920976808,
+        "r2": 0.5395063600066834
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0051696869000267005,
+            "kernel": "poly"
+        },
+        "mse": 0.49988752693804833,
+        "r2": 0.5372500065358171
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0051696869000267005,
+            "kernel": "rbf"
+        },
+        "mse": 0.3041016547625749,
+        "r2": 0.7184905980435301
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.005848035476425728,
+            "kernel": "linear"
+        },
+        "mse": 0.49745007821266873,
+        "r2": 0.5395063728601532
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.005848035476425728,
+            "kernel": "poly"
+        },
+        "mse": 0.4795847687588582,
+        "r2": 0.5560444366994837
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.005848035476425728,
+            "kernel": "rbf"
+        },
+        "mse": 0.3007028501819276,
+        "r2": 0.721636899386783
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.006615394625418668,
+            "kernel": "linear"
+        },
+        "mse": 0.4974500625359421,
+        "r2": 0.5395063873722279
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.006615394625418668,
+            "kernel": "poly"
+        },
+        "mse": 0.46377220245226614,
+        "r2": 0.5706822593310018
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.006615394625418668,
+            "kernel": "rbf"
+        },
+        "mse": 0.2975374548222296,
+        "r2": 0.7245671318952516
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.007483444008921448,
+            "kernel": "linear"
+        },
+        "mse": 0.49745004486273203,
+        "r2": 0.5395064037324638
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.007483444008921448,
+            "kernel": "poly"
+        },
+        "mse": 0.4514432079970513,
+        "r2": 0.5820953108598464
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.007483444008921448,
+            "kernel": "rbf"
+        },
+        "mse": 0.29459924303910356,
+        "r2": 0.7272870586991194
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.008465395854010467,
+            "kernel": "linear"
+        },
+        "mse": 0.49745002493095647,
+        "r2": 0.5395064221834723
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.008465395854010467,
+            "kernel": "poly"
+        },
+        "mse": 0.44177120621951343,
+        "r2": 0.5910487624227534
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.008465395854010467,
+            "kernel": "rbf"
+        },
+        "mse": 0.29188291791751453,
+        "r2": 0.7298015831961822
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.009576196050864289,
+            "kernel": "linear"
+        },
+        "mse": 0.4974500024806407,
+        "r2": 0.5395064429659142
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.009576196050864289,
+            "kernel": "poly"
+        },
+        "mse": 0.434096727980458,
+        "r2": 0.598153090023638
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.009576196050864289,
+            "kernel": "rbf"
+        },
+        "mse": 0.2893839488897305,
+        "r2": 0.7321148993702374
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.010832751638087227,
+            "kernel": "linear"
+        },
+        "mse": 0.49744997717931194,
+        "r2": 0.5395064663875623
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.010832751638087227,
+            "kernel": "poly"
+        },
+        "mse": 0.4279063074814892,
+        "r2": 0.6038836131734853
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.010832751638087227,
+            "kernel": "rbf"
+        },
+        "mse": 0.28709836612578393,
+        "r2": 0.7342306821255236
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01225418813787657,
+            "kernel": "linear"
+        },
+        "mse": 0.49744994870408654,
+        "r2": 0.5395064927473125
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01225418813787657,
+            "kernel": "poly"
+        },
+        "mse": 0.42280752783961956,
+        "r2": 0.6086035954070945
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01225418813787657,
+            "kernel": "rbf"
+        },
+        "mse": 0.2850225288227487,
+        "r2": 0.7361523017832416
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.013862140657827343,
+            "kernel": "linear"
+        },
+        "mse": 0.4974499166741754,
+        "r2": 0.5395065223976646
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.013862140657827343,
+            "kernel": "poly"
+        },
+        "mse": 0.41850375099761733,
+        "r2": 0.6125876370128269
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.013862140657827343,
+            "kernel": "rbf"
+        },
+        "mse": 0.2831528869634357,
+        "r2": 0.7378830446234899
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.015681083190117216,
+            "kernel": "linear"
+        },
+        "mse": 0.4974498806638104,
+        "r2": 0.5395065557327555
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.015681083190117216,
+            "kernel": "poly"
+        },
+        "mse": 0.41477106349979637,
+        "r2": 0.616043016517494
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.015681083190117216,
+            "kernel": "rbf"
+        },
+        "mse": 0.28148575689789235,
+        "r2": 0.7394263206313143
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01773870112020035,
+            "kernel": "linear"
+        },
+        "mse": 0.49744984022361843,
+        "r2": 0.5395065931685737
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01773870112020035,
+            "kernel": "poly"
+        },
+        "mse": 0.4114389415117621,
+        "r2": 0.6191275892365407
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.01773870112020035,
+            "kernel": "rbf"
+        },
+        "mse": 0.2800171299859298,
+        "r2": 0.740785840637894
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.020066312614813998,
+            "kernel": "linear"
+        },
+        "mse": 0.49744979484683227,
+        "r2": 0.5395066351742377
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.020066312614813998,
+            "kernel": "poly"
+        },
+        "mse": 0.40837524526291386,
+        "r2": 0.6219636780419859
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.020066312614813998,
+            "kernel": "rbf"
+        },
+        "mse": 0.27874253044215197,
+        "r2": 0.7419657479145678
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.022699345303073465,
+            "kernel": "linear"
+        },
+        "mse": 0.49744974398698444,
+        "r2": 0.5395066822556169
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.022699345303073465,
+            "kernel": "poly"
+        },
+        "mse": 0.40547544566573596,
+        "r2": 0.6246480463695193
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.022699345303073465,
+            "kernel": "rbf"
+        },
+        "mse": 0.2776569336663481,
+        "r2": 0.7429706937750599
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02567787550602453,
+            "kernel": "linear"
+        },
+        "mse": 0.49744968706095494,
+        "r2": 0.5395067349525104
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02567787550602453,
+            "kernel": "poly"
+        },
+        "mse": 0.40265552045200814,
+        "r2": 0.6272584743236134
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02567787550602453,
+            "kernel": "rbf"
+        },
+        "mse": 0.27675475024050933,
+        "r2": 0.7438058523895739
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02904723822204767,
+            "kernel": "linear"
+        },
+        "mse": 0.49744962343948257,
+        "r2": 0.5395067938474305
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02904723822204767,
+            "kernel": "poly"
+        },
+        "mse": 0.39984770659136953,
+        "r2": 0.6298576906985804
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.02904723822204767,
+            "kernel": "rbf"
+        },
+        "mse": 0.2760298741989852,
+        "r2": 0.7444768761007119
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03285871715245405,
+            "kernel": "linear"
+        },
+        "mse": 0.4974495524522609,
+        "r2": 0.5395068595608852
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03285871715245405,
+            "kernel": "poly"
+        },
+        "mse": 0.39699823379608373,
+        "r2": 0.6324954710918453
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03285871715245405,
+            "kernel": "rbf"
+        },
+        "mse": 0.27547578805392087,
+        "r2": 0.7449897982005644
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03717032526987227,
+            "kernel": "linear"
+        },
+        "mse": 0.49744947341213114,
+        "r2": 0.5395069327289832
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03717032526987227,
+            "kernel": "poly"
+        },
+        "mse": 0.39406623488929987,
+        "r2": 0.6352096465850046
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.03717032526987227,
+            "kernel": "rbf"
+        },
+        "mse": 0.275085712246647,
+        "r2": 0.7453508945823288
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0420476878101407,
+            "kernel": "linear"
+        },
+        "mse": 0.49744938560087304,
+        "r2": 0.5395070140165867
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0420476878101407,
+            "kernel": "poly"
+        },
+        "mse": 0.391023183952949,
+        "r2": 0.6380266238549377
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0420476878101407,
+            "kernel": "rbf"
+        },
+        "mse": 0.27485278385407175,
+        "r2": 0.7455665183103344
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.04756504112736628,
+            "kernel": "linear"
+        },
+        "mse": 0.4974492883117509,
+        "r2": 0.5395071040779269
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.04756504112736628,
+            "kernel": "poly"
+        },
+        "mse": 0.38785239951326195,
+        "r2": 0.6409618450790578
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.04756504112736628,
+            "kernel": "rbf"
+        },
+        "mse": 0.2747702487741408,
+        "r2": 0.7456429217123808
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.05380636261531626,
+            "kernel": "linear"
+        },
+        "mse": 0.49744918086036377,
+        "r2": 0.5395072035465593
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.05380636261531626,
+            "kernel": "poly"
+        },
+        "mse": 0.38454833667839877,
+        "r2": 0.6440204432093282
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.05380636261531626,
+            "kernel": "rbf"
+        },
+        "mse": 0.27483165310452184,
+        "r2": 0.7455860792189171
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0608666488932186,
+            "kernel": "linear"
+        },
+        "mse": 0.49744906262237276,
+        "r2": 0.5395073130004397
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0608666488932186,
+            "kernel": "poly"
+        },
+        "mse": 0.3811155491211673,
+        "r2": 0.6471982028733929
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.0608666488932186,
+            "kernel": "rbf"
+        },
+        "mse": 0.2750310224775984,
+        "r2": 0.7454015213511638
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.06885336171071658,
+            "kernel": "linear"
+        },
+        "mse": 0.4974489330843692,
+        "r2": 0.5395074329148346
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.06885336171071658,
+            "kernel": "poly"
+        },
+        "mse": 0.3775673209837368,
+        "r2": 0.6504828268316316
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.06885336171071658,
+            "kernel": "rbf"
+        },
+        "mse": 0.27536302195138235,
+        "r2": 0.7450941867087801
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.07788806357951074,
+            "kernel": "linear"
+        },
+        "mse": 0.4974487919022534,
+        "r2": 0.53950756360828
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.07788806357951074,
+            "kernel": "poly"
+        },
+        "mse": 0.3739240486060322,
+        "r2": 0.6538554340244892
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.07788806357951074,
+            "kernel": "rbf"
+        },
+        "mse": 0.2758230928481994,
+        "r2": 0.7446682952971675
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.08810826802697268,
+            "kernel": "linear"
+        },
+        "mse": 0.49744863900013586,
+        "r2": 0.5395077051510273
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.08810826802697268,
+            "kernel": "poly"
+        },
+        "mse": 0.370211494997857,
+        "r2": 0.6572921754219824
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.08810826802697268,
+            "kernel": "rbf"
+        },
+        "mse": 0.27640756598469596,
+        "r2": 0.7441272437095224
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.09966953263368855,
+            "kernel": "linear"
+        },
+        "mse": 0.49744847466195935,
+        "r2": 0.5395078572802283
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.09966953263368855,
+            "kernel": "poly"
+        },
+        "mse": 0.3664590561730685,
+        "r2": 0.6607658388924071
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.09966953263368855,
+            "kernel": "rbf"
+        },
+        "mse": 0.2771137526223287,
+        "r2": 0.7434735209332197
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.11274782671220807,
+            "kernel": "linear"
+        },
+        "mse": 0.49744829969513765,
+        "r2": 0.5395080192484536
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.11274782671220807,
+            "kernel": "poly"
+        },
+        "mse": 0.36269817160233725,
+        "r2": 0.6642473206592869
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.11274782671220807,
+            "kernel": "rbf"
+        },
+        "mse": 0.2779400150887537,
+        "r2": 0.742708642975012
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.12754220966447474,
+            "kernel": "linear"
+        },
+        "mse": 0.49744811561150437,
+        "r2": 0.5395081896561864
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.12754220966447474,
+            "kernel": "poly"
+        },
+        "mse": 0.35896098796442144,
+        "r2": 0.6677068622778044
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.12754220966447474,
+            "kernel": "rbf"
+        },
+        "mse": 0.27888581858086614,
+        "r2": 0.7418331049065303
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.14427786078412702,
+            "kernel": "linear"
+        },
+        "mse": 0.49744792486474865,
+        "r2": 0.5395083662320264
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.14427786078412702,
+            "kernel": "poly"
+        },
+        "mse": 0.35527934969348646,
+        "r2": 0.6711149850934468
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.14427786078412702,
+            "kernel": "rbf"
+        },
+        "mse": 0.27995176456581417,
+        "r2": 0.7408463499446907
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.16320950661906225,
+            "kernel": "linear"
+        },
+        "mse": 0.49744773116219737,
+        "r2": 0.5395085455440707
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.16320950661906225,
+            "kernel": "poly"
+        },
+        "mse": 0.3516841434017152,
+        "r2": 0.6744430971153852
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.16320950661906225,
+            "kernel": "rbf"
+        },
+        "mse": 0.2811396049296314,
+        "r2": 0.7397467563541889
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.18462529806075628,
+            "kernel": "linear"
+        },
+        "mse": 0.4974475398444709,
+        "r2": 0.539508722648463
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.18462529806075628,
+            "kernel": "poly"
+        },
+        "mse": 0.348204972810785,
+        "r2": 0.6776637939350785
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.18462529806075628,
+            "kernel": "rbf"
+        },
+        "mse": 0.2824522350198291,
+        "r2": 0.7385316438880297
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.2088511961719387,
+            "kernel": "linear"
+        },
+        "mse": 0.4974473583728732,
+        "r2": 0.5395088906382128
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.2088511961719387,
+            "kernel": "poly"
+        },
+        "mse": 0.3448700897943569,
+        "r2": 0.6807509225608086
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.2088511961719387,
+            "kernel": "rbf"
+        },
+        "mse": 0.28389366328719323,
+        "r2": 0.7371973018903657
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.23625593350752802,
+            "kernel": "linear"
+        },
+        "mse": 0.497447196924235,
+        "r2": 0.5395090400925446
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.23625593350752802,
+            "kernel": "poly"
+        },
+        "mse": 0.3417064647215171,
+        "r2": 0.6836795163001783
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.23625593350752802,
+            "kernel": "rbf"
+        },
+        "mse": 0.2854689554737879,
+        "r2": 0.7357390409621205
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.26725662644307674,
+            "kernel": "linear"
+        },
+        "mse": 0.4974470691297115,
+        "r2": 0.5395091583929856
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.26725662644307674,
+            "kernel": "poly"
+        },
+        "mse": 0.3387398510349124,
+        "r2": 0.6864257349795998
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.26725662644307674,
+            "kernel": "rbf"
+        },
+        "mse": 0.2871841521753862,
+        "r2": 0.7341512692741248
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3023251239336952,
+            "kernel": "linear"
+        },
+        "mse": 0.49744699297702194,
+        "r2": 0.5395092288881564
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3023251239336952,
+            "kernel": "poly"
+        },
+        "mse": 0.3359946923386788,
+        "r2": 0.6889669509537637
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3023251239336952,
+            "kernel": "rbf"
+        },
+        "mse": 0.2890461599636106,
+        "r2": 0.7324275933562461
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3419951893353393,
+            "kernel": "linear"
+        },
+        "mse": 0.49744699190046787,
+        "r2": 0.5395092298847314
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3419951893353393,
+            "kernel": "poly"
+        },
+        "mse": 0.3334937378926216,
+        "r2": 0.6912821050458373
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.3419951893353393,
+            "kernel": "rbf"
+        },
+        "mse": 0.29106261787279364,
+        "r2": 0.7305609416915989
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.38687062460004507,
+            "kernel": "linear"
+        },
+        "mse": 0.4974470960873286,
+        "r2": 0.5395091334380978
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.38687062460004507,
+            "kernel": "poly"
+        },
+        "mse": 0.3312572744039626,
+        "r2": 0.6933524176841603
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.38687062460004507,
+            "kernel": "rbf"
+        },
+        "mse": 0.293241742731438,
+        "r2": 0.7285437078944845
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.4376344605001825,
+            "kernel": "linear"
+        },
+        "mse": 0.49744734402616403,
+        "r2": 0.5395089039190795
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.4376344605001825,
+            "kernel": "poly"
+        },
+        "mse": 0.32930194478856667,
+        "r2": 0.6951624823846883
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.4376344605001825,
+            "kernel": "rbf"
+        },
+        "mse": 0.29559215838459996,
+        "r2": 0.7263679088006345
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.49505935276240487,
+            "kernel": "linear"
+        },
+        "mse": 0.4974477843151801,
+        "r2": 0.5395084963399175
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.49505935276240487,
+            "kernel": "poly"
+        },
+        "mse": 0.3276392006366415,
+        "r2": 0.6967016983162178
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.49505935276240487,
+            "kernel": "rbf"
+        },
+        "mse": 0.2981227151936736,
+        "r2": 0.7240253515577435
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.5600193423466232,
+            "kernel": "linear"
+        },
+        "mse": 0.4974484777474707,
+        "r2": 0.5395078544239451
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.5600193423466232,
+            "kernel": "poly"
+        },
+        "mse": 0.32627351492523443,
+        "r2": 0.6979659248071222
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.5600193423466232,
+            "kernel": "rbf"
+        },
+        "mse": 0.30084230722205013,
+        "r2": 0.7215078028582088
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.6335031588684309,
+            "kernel": "linear"
+        },
+        "mse": 0.49744949967297025,
+        "r2": 0.5395069084191085
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.6335031588684309,
+            "kernel": "poly"
+        },
+        "mse": 0.3252005542377784,
+        "r2": 0.6989591733367442
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.6335031588684309,
+            "kernel": "rbf"
+        },
+        "mse": 0.3037596951267767,
+        "r2": 0.718807152889777
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.7166292696509752,
+            "kernel": "linear"
+        },
+        "mse": 0.497450942620748,
+        "r2": 0.5395055726704876
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.7166292696509752,
+            "kernel": "poly"
+        },
+        "mse": 0.32440556377922464,
+        "r2": 0.6996951025401656
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.7166292696509752,
+            "kernel": "rbf"
+        },
+        "mse": 0.30688334287179586,
+        "r2": 0.7159155664914407
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.8106629034617787,
+            "kernel": "linear"
+        },
+        "mse": 0.4974529191461635,
+        "r2": 0.5395037429846608
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.8106629034617787,
+            "kernel": "poly"
+        },
+        "mse": 0.32386224437103794,
+        "r2": 0.7001980577831728
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.8106629034617787,
+            "kernel": "rbf"
+        },
+        "mse": 0.3102212758508654,
+        "r2": 0.7128256144902183
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.9170353080458871,
+            "kernel": "linear"
+        },
+        "mse": 0.49745556482983383,
+        "r2": 0.5395012938535357
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.9170353080458871,
+            "kernel": "poly"
+        },
+        "mse": 0.3235323907722332,
+        "r2": 0.7005034059714463
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 0.9170353080458871,
+            "kernel": "rbf"
+        },
+        "mse": 0.3137809667885039,
+        "r2": 0.7095303793235868
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.0373655345664445,
+            "kernel": "linear"
+        },
+        "mse": 0.49745904132386237,
+        "r2": 0.5394980756344319
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.0373655345664445,
+            "kernel": "poly"
+        },
+        "mse": 0.3233665116400357,
+        "r2": 0.7006569616478809
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.0373655345664445,
+            "kernel": "rbf"
+        },
+        "mse": 0.3175692538927874,
+        "r2": 0.7060235308061105
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.1734850805248151,
+            "kernel": "linear"
+        },
+        "mse": 0.49746353929606735,
+        "r2": 0.5394939118245821
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.1734850805248151,
+            "kernel": "poly"
+        },
+        "mse": 0.3233055645866752,
+        "r2": 0.7007133808362471
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.1734850805248151,
+            "kernel": "rbf"
+        },
+        "mse": 0.3215922933089283,
+        "r2": 0.7022993701435539
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.327465766240115,
+            "kernel": "linear"
+        },
+        "mse": 0.49746928107539357,
+        "r2": 0.5394885966122545
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.327465766240115,
+            "kernel": "poly"
+        },
+        "mse": 0.32328382195455063,
+        "r2": 0.7007335081695598
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.327465766240115,
+            "kernel": "rbf"
+        },
+        "mse": 0.32585554525182997,
+        "r2": 0.6983528427700905
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.5016512691847486,
+            "kernel": "linear"
+        },
+        "mse": 0.4974765227540176,
+        "r2": 0.5394818929308154
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.5016512691847486,
+            "kernel": "poly"
+        },
+        "mse": 0.3232327463314611,
+        "r2": 0.7007807892937672
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.5016512691847486,
+            "kernel": "rbf"
+        },
+        "mse": 0.33036379067568966,
+        "r2": 0.6941795229171137
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.6986927961472418,
+            "kernel": "linear"
+        },
+        "mse": 0.4974855554563728,
+        "r2": 0.5394735312839836
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.6986927961472418,
+            "kernel": "poly"
+        },
+        "mse": 0.3230856167220164,
+        "r2": 0.7009169883828421
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.6986927961472418,
+            "kernel": "rbf"
+        },
+        "mse": 0.33512117341215425,
+        "r2": 0.6897755746056
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.9215894361738988,
+            "kernel": "linear"
+        },
+        "mse": 0.49749670544117364,
+        "r2": 0.539463209651385
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.9215894361738988,
+            "kernel": "poly"
+        },
+        "mse": 0.322782525841798,
+        "r2": 0.7011975621024931
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 1.9215894361738988,
+            "kernel": "rbf"
+        },
+        "mse": 0.34013126177180014,
+        "r2": 0.6851376946211122
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.1737338084849673,
+            "kernel": "linear"
+        },
+        "mse": 0.49751033268060546,
+        "r2": 0.5394505948038079
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.1737338084849673,
+            "kernel": "poly"
+        },
+        "mse": 0.3222752859031426,
+        "r2": 0.7016671182839312
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.1737338084849673,
+            "kernel": "rbf"
+        },
+        "mse": 0.34539712390681143,
+        "r2": 0.6802630427499488
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.458963700153767,
+            "kernel": "linear"
+        },
+        "mse": 0.49752682753699456,
+        "r2": 0.5394353253796376
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.458963700153767,
+            "kernel": "poly"
+        },
+        "mse": 0.32153174988848465,
+        "r2": 0.7023554156856104
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.458963700153767,
+            "kernel": "rbf"
+        },
+        "mse": 0.3509214127940186,
+        "r2": 0.6751491631096469
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.781620479504871,
+            "kernel": "linear"
+        },
+        "mse": 0.4975466051644895,
+        "r2": 0.5394170170672656
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.781620479504871,
+            "kernel": "poly"
+        },
+        "mse": 0.3205390860848996,
+        "r2": 0.70327433272968
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 2.781620479504871,
+            "kernel": "rbf"
+        },
+        "mse": 0.3567064592507125,
+        "r2": 0.6697938980434777
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.1466151743179713,
+            "kernel": "linear"
+        },
+        "mse": 0.49757009727293544,
+        "r2": 0.5393952702293391
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.1466151743179713,
+            "kernel": "poly"
+        },
+        "mse": 0.3193056348067964,
+        "r2": 0.7044161487185221
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.1466151743179713,
+            "kernel": "rbf"
+        },
+        "mse": 0.36275437438243063,
+        "r2": 0.6641952932836885
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.5595032205869113,
+            "kernel": "linear"
+        },
+        "mse": 0.49759774092651615,
+        "r2": 0.5393696802719498
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.5595032205869113,
+            "kernel": "poly"
+        },
+        "mse": 0.3178611170727463,
+        "r2": 0.7057533506608972
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 3.5595032205869113,
+            "kernel": "rbf"
+        },
+        "mse": 0.36906716548107027,
+        "r2": 0.6583514906636678
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.026569019554435,
+            "kernel": "linear"
+        },
+        "mse": 0.4976299640888296,
+        "r2": 0.5393398510256766
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.026569019554435,
+            "kernel": "poly"
+        },
+        "mse": 0.3162551369069204,
+        "r2": 0.707240019703815
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.026569019554435,
+            "kernel": "rbf"
+        },
+        "mse": 0.3756468707155912,
+        "r2": 0.6522606034336527
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.55492159003082,
+            "kernel": "linear"
+        },
+        "mse": 0.49766716768483354,
+        "r2": 0.5393054113509899
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.55492159003082,
+            "kernel": "poly"
+        },
+        "mse": 0.31455409850916977,
+        "r2": 0.7088146849335377
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 4.55492159003082,
+            "kernel": "rbf"
+        },
+        "mse": 0.38249571712114894,
+        "r2": 0.6459205700088904
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.152602771881634,
+            "kernel": "linear"
+        },
+        "mse": 0.4977097040216697,
+        "r2": 0.5392660351142722
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.152602771881634,
+            "kernel": "poly"
+        },
+        "mse": 0.3128368228856972,
+        "r2": 0.7104043810966041
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.152602771881634,
+            "kernel": "rbf"
+        },
+        "mse": 0.3896163028407896,
+        "r2": 0.6393289852670025
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.828709627605831,
+            "kernel": "linear"
+        },
+        "mse": 0.49775785150853274,
+        "r2": 0.5392214645898431
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.828709627605831,
+            "kernel": "poly"
+        },
+        "mse": 0.31118927524581413,
+        "r2": 0.7119295294919996
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 5.828709627605831,
+            "kernel": "rbf"
+        },
+        "mse": 0.3970117983196001,
+        "r2": 0.6324829143009069
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 6.593532905028946,
+            "kernel": "linear"
+        },
+        "mse": 0.49781178575224827,
+        "r2": 0.5391715372170204
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 6.593532905028946,
+            "kernel": "poly"
+        },
+        "mse": 0.30969889042342524,
+        "r2": 0.7133091909751417
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 6.593532905028946,
+            "kernel": "rbf"
+        },
+        "mse": 0.40468615296152827,
+        "r2": 0.625378701114899
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 7.458713668595767,
+            "kernel": "linear"
+        },
+        "mse": 0.4978715472973966,
+        "r2": 0.5391162154633529
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 7.458713668595767,
+            "kernel": "poly"
+        },
+        "mse": 0.30844900250366525,
+        "r2": 0.7144662224982978
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 7.458713668595767,
+            "kernel": "rbf"
+        },
+        "mse": 0.4126442851739435,
+        "r2": 0.6180117926988413
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 8.437420483283871,
+            "kernel": "linear"
+        },
+        "mse": 0.4979370065432525,
+        "r2": 0.539055619301297
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 8.437420483283871,
+            "kernel": "poly"
+        },
+        "mse": 0.30751384810742316,
+        "r2": 0.7153319026111818
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 8.437420483283871,
+            "kernel": "rbf"
+        },
+        "mse": 0.42089222684273203,
+        "r2": 0.6103766052863778
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 9.544549847982168,
+            "kernel": "linear"
+        },
+        "mse": 0.4980078267121262,
+        "r2": 0.5389900604887294
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 9.544549847982168,
+            "kernel": "poly"
+        },
+        "mse": 0.3069545286103207,
+        "r2": 0.7158496692680415
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 9.544549847982168,
+            "kernel": "rbf"
+        },
+        "mse": 0.42943719031473826,
+        "r2": 0.6024664623487394
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 10.79695292904978,
+            "kernel": "linear"
+        },
+        "mse": 0.4980834261573661,
+        "r2": 0.5389200774607372
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 10.79695292904978,
+            "kernel": "poly"
+        },
+        "mse": 0.3068161979998417,
+        "r2": 0.7159777230514338
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 10.79695292904978,
+            "kernel": "rbf"
+        },
+        "mse": 0.4382875286643246,
+        "r2": 0.5942736313763146
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 12.213692045074481,
+            "kernel": "linear"
+        },
+        "mse": 0.4981629417546027,
+        "r2": 0.5388464692186454
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 12.213692045074481,
+            "kernel": "poly"
+        },
+        "mse": 0.30712660621040544,
+        "r2": 0.7156903756189235
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 12.213692045074481,
+            "kernel": "rbf"
+        },
+        "mse": 0.4474525691184239,
+        "r2": 0.5857894780784487
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 13.816330806681048,
+            "kernel": "linear"
+        },
+        "mse": 0.49824519556353225,
+        "r2": 0.5387703261914774
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 13.816330806681048,
+            "kernel": "poly"
+        },
+        "mse": 0.30789598951041086,
+        "r2": 0.714978151172697
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 13.816330806681048,
+            "kernel": "rbf"
+        },
+        "mse": 0.45694231436744737,
+        "r2": 0.5770047428823921
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 15.629262327489712,
+            "kernel": "linear"
+        },
+        "mse": 0.4983286673041389,
+        "r2": 0.538693055714943
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 15.629262327489712,
+            "kernel": "poly"
+        },
+        "mse": 0.30911817561748156,
+        "r2": 0.7138467634452952
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 15.629262327489712,
+            "kernel": "rbf"
+        },
+        "mse": 0.4667670250471248,
+        "r2": 0.5679099274332928
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 17.68008050179055,
+            "kernel": "linear"
+        },
+        "mse": 0.4984114753749246,
+        "r2": 0.5386163996030179
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 17.68008050179055,
+            "kernel": "poly"
+        },
+        "mse": 0.3107726744125167,
+        "r2": 0.7123151803084271
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 17.68008050179055,
+            "kernel": "rbf"
+        },
+        "mse": 0.47693671579851854,
+        "r2": 0.558495761095585
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 20.0,
+            "kernel": "linear"
+        },
+        "mse": 0.498491369075204,
+        "r2": 0.5385424413478308
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 20.0,
+            "kernel": "poly"
+        },
+        "mse": 0.31282746377197146,
+        "r2": 0.710413044905125
+    },
+    {
+        "model": "Kernel Ridge Regression",
+        "params": {
+            "alpha": 20.0,
+            "kernel": "rbf"
+        },
+        "mse": 0.48746061337079977,
+        "r2": 0.548753702591704
+    }
+]

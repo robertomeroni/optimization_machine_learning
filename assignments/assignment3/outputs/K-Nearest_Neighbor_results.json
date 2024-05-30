@@ -1,0 +1,1802 @@
+[
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "uniform"
+        },
+        "mse": 0.47734588284023666,
+        "r2": 0.5581169918011386
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 1,
+            "weights": "distance"
+        },
+        "mse": 0.47734588284023666,
+        "r2": 0.5581169918011386
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "uniform"
+        },
+        "mse": 0.3889220269230769,
+        "r2": 0.6399716821919524
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 2,
+            "weights": "distance"
+        },
+        "mse": 0.3829386320173288,
+        "r2": 0.6455105600481141
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "uniform"
+        },
+        "mse": 0.4135031245233399,
+        "r2": 0.6172167580522392
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 3,
+            "weights": "distance"
+        },
+        "mse": 0.39413345104925984,
+        "r2": 0.6351474240331184
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 4,
+            "weights": "uniform"
+        },
+        "mse": 0.4005662417159764,
+        "r2": 0.6291925368263639
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 4,
+            "weights": "distance"
+        },
+        "mse": 0.3832642520667316,
+        "r2": 0.6452091308913277
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 5,
+            "weights": "uniform"
+        },
+        "mse": 0.3905497260118343,
+        "r2": 0.6384649077635169
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 5,
+            "weights": "distance"
+        },
+        "mse": 0.37260760681436333,
+        "r2": 0.6550740750140377
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 6,
+            "weights": "uniform"
+        },
+        "mse": 0.3782294269559501,
+        "r2": 0.6498699098897127
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 6,
+            "weights": "distance"
+        },
+        "mse": 0.3634708531608918,
+        "r2": 0.6635320429880052
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 7,
+            "weights": "uniform"
+        },
+        "mse": 0.3730963746890472,
+        "r2": 0.6546216185740843
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 7,
+            "weights": "distance"
+        },
+        "mse": 0.3606305363224918,
+        "r2": 0.6661613476367061
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 8,
+            "weights": "uniform"
+        },
+        "mse": 0.37362609395340235,
+        "r2": 0.6541312530960344
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 8,
+            "weights": "distance"
+        },
+        "mse": 0.36071949115375096,
+        "r2": 0.6660790014180757
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 9,
+            "weights": "uniform"
+        },
+        "mse": 0.3748933065380962,
+        "r2": 0.6529581839881158
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 9,
+            "weights": "distance"
+        },
+        "mse": 0.36147020480819086,
+        "r2": 0.66538405961624
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "uniform"
+        },
+        "mse": 0.3770452809585799,
+        "r2": 0.6509660835748217
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 10,
+            "weights": "distance"
+        },
+        "mse": 0.36371939241084233,
+        "r2": 0.6633019681609842
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 11,
+            "weights": "uniform"
+        },
+        "mse": 0.3825338526969534,
+        "r2": 0.6458852675928402
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 11,
+            "weights": "distance"
+        },
+        "mse": 0.3670455544340933,
+        "r2": 0.6602229126303369
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 12,
+            "weights": "uniform"
+        },
+        "mse": 0.37984696982248517,
+        "r2": 0.6483725371596867
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 12,
+            "weights": "distance"
+        },
+        "mse": 0.3658494075831887,
+        "r2": 0.6613301956042266
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 13,
+            "weights": "uniform"
+        },
+        "mse": 0.3857340542978187,
+        "r2": 0.6429228146607668
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 13,
+            "weights": "distance"
+        },
+        "mse": 0.37064389412785675,
+        "r2": 0.6568918999924134
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 14,
+            "weights": "uniform"
+        },
+        "mse": 0.3942014197741818,
+        "r2": 0.6350845048256597
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 14,
+            "weights": "distance"
+        },
+        "mse": 0.3777456455703102,
+        "r2": 0.650317750295762
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 15,
+            "weights": "uniform"
+        },
+        "mse": 0.3892284044549638,
+        "r2": 0.6396880659918311
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 15,
+            "weights": "distance"
+        },
+        "mse": 0.3739773886028952,
+        "r2": 0.6538060567508635
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 16,
+            "weights": "uniform"
+        },
+        "mse": 0.38995970378143496,
+        "r2": 0.6390110961930091
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 16,
+            "weights": "distance"
+        },
+        "mse": 0.3748628433784262,
+        "r2": 0.6529863839854724
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 17,
+            "weights": "uniform"
+        },
+        "mse": 0.38970247428185334,
+        "r2": 0.6392492156555596
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 17,
+            "weights": "distance"
+        },
+        "mse": 0.3744325018731963,
+        "r2": 0.6533847546548753
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 18,
+            "weights": "uniform"
+        },
+        "mse": 0.388797412725546,
+        "r2": 0.6400870385791104
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 18,
+            "weights": "distance"
+        },
+        "mse": 0.3741319363227971,
+        "r2": 0.6536629906559508
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 19,
+            "weights": "uniform"
+        },
+        "mse": 0.38596966075824873,
+        "r2": 0.6427047118233307
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 19,
+            "weights": "distance"
+        },
+        "mse": 0.3722013123752682,
+        "r2": 0.655450185116619
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 20,
+            "weights": "uniform"
+        },
+        "mse": 0.3912937724704142,
+        "r2": 0.6377761378397024
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 20,
+            "weights": "distance"
+        },
+        "mse": 0.37681992592530666,
+        "r2": 0.6511746965818577
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 21,
+            "weights": "uniform"
+        },
+        "mse": 0.389987797901488,
+        "r2": 0.6389850892351028
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 21,
+            "weights": "distance"
+        },
+        "mse": 0.376303006899704,
+        "r2": 0.6516532127736585
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 22,
+            "weights": "uniform"
+        },
+        "mse": 0.396013671389799,
+        "r2": 0.633406888605829
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 22,
+            "weights": "distance"
+        },
+        "mse": 0.3812993927585512,
+        "r2": 0.6470280173068137
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 23,
+            "weights": "uniform"
+        },
+        "mse": 0.39810352226932577,
+        "r2": 0.6314722964651414
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 23,
+            "weights": "distance"
+        },
+        "mse": 0.3833921733038517,
+        "r2": 0.6450907131504333
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 24,
+            "weights": "uniform"
+        },
+        "mse": 0.39612826514628535,
+        "r2": 0.633300808223328
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 24,
+            "weights": "distance"
+        },
+        "mse": 0.382120798905716,
+        "r2": 0.646267634883271
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 25,
+            "weights": "uniform"
+        },
+        "mse": 0.39963045110343187,
+        "r2": 0.6300588058899097
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 25,
+            "weights": "distance"
+        },
+        "mse": 0.3852387007813372,
+        "r2": 0.6433813674834754
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 26,
+            "weights": "uniform"
+        },
+        "mse": 0.4014992578691222,
+        "r2": 0.6283288361026935
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 26,
+            "weights": "distance"
+        },
+        "mse": 0.3874749573807821,
+        "r2": 0.641311246364199
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 27,
+            "weights": "uniform"
+        },
+        "mse": 0.40323903562633423,
+        "r2": 0.6267183095294254
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 27,
+            "weights": "distance"
+        },
+        "mse": 0.3891685763691894,
+        "r2": 0.6397434493427033
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 28,
+            "weights": "uniform"
+        },
+        "mse": 0.40721581276114,
+        "r2": 0.6230369742410418
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 28,
+            "weights": "distance"
+        },
+        "mse": 0.3927700182224261,
+        "r2": 0.6364095650102514
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 29,
+            "weights": "uniform"
+        },
+        "mse": 0.4118290652519894,
+        "r2": 0.618766448482847
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 29,
+            "weights": "distance"
+        },
+        "mse": 0.39652323913892906,
+        "r2": 0.6329351775510967
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 30,
+            "weights": "uniform"
+        },
+        "mse": 0.4143265424234057,
+        "r2": 0.6164545133324966
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 30,
+            "weights": "distance"
+        },
+        "mse": 0.3990406952688868,
+        "r2": 0.6306047477145693
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 31,
+            "weights": "uniform"
+        },
+        "mse": 0.4152901299706297,
+        "r2": 0.6155625124179882
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 31,
+            "weights": "distance"
+        },
+        "mse": 0.40005656565426073,
+        "r2": 0.6296643481469473
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 32,
+            "weights": "uniform"
+        },
+        "mse": 0.4108297834781805,
+        "r2": 0.6196914918363617
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 32,
+            "weights": "distance"
+        },
+        "mse": 0.39693979269266133,
+        "r2": 0.6325495705017514
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 33,
+            "weights": "uniform"
+        },
+        "mse": 0.4135165888807385,
+        "r2": 0.6172042939858994
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 33,
+            "weights": "distance"
+        },
+        "mse": 0.39928827180803345,
+        "r2": 0.6303755640768545
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 34,
+            "weights": "uniform"
+        },
+        "mse": 0.4155354941002437,
+        "r2": 0.6153353768259666
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 34,
+            "weights": "distance"
+        },
+        "mse": 0.40101064007922765,
+        "r2": 0.6287811536079235
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 35,
+            "weights": "uniform"
+        },
+        "mse": 0.4184969320768024,
+        "r2": 0.6125939493438864
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 35,
+            "weights": "distance"
+        },
+        "mse": 0.40380729080382965,
+        "r2": 0.626192271039762
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 36,
+            "weights": "uniform"
+        },
+        "mse": 0.418320027817956,
+        "r2": 0.612757711070702
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 36,
+            "weights": "distance"
+        },
+        "mse": 0.4040176604775447,
+        "r2": 0.6259975301032699
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 37,
+            "weights": "uniform"
+        },
+        "mse": 0.420195983434546,
+        "r2": 0.6110211235334344
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 37,
+            "weights": "distance"
+        },
+        "mse": 0.40577021081924664,
+        "r2": 0.6243751798435309
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 38,
+            "weights": "uniform"
+        },
+        "mse": 0.42162394256830965,
+        "r2": 0.6096992500234796
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 38,
+            "weights": "distance"
+        },
+        "mse": 0.40715524228548067,
+        "r2": 0.6230930448283339
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 39,
+            "weights": "uniform"
+        },
+        "mse": 0.4245663978486593,
+        "r2": 0.6069753949793444
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 39,
+            "weights": "distance"
+        },
+        "mse": 0.40958694879217167,
+        "r2": 0.620841994123047
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 40,
+            "weights": "uniform"
+        },
+        "mse": 0.423906161183432,
+        "r2": 0.6075865814884182
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 40,
+            "weights": "distance"
+        },
+        "mse": 0.4091708831367202,
+        "r2": 0.6212271495209425
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 41,
+            "weights": "uniform"
+        },
+        "mse": 0.4219010606197353,
+        "r2": 0.6094427195649752
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 41,
+            "weights": "distance"
+        },
+        "mse": 0.4077011171965819,
+        "r2": 0.6225877239352691
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 42,
+            "weights": "uniform"
+        },
+        "mse": 0.4222244028096446,
+        "r2": 0.6091433990414492
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 42,
+            "weights": "distance"
+        },
+        "mse": 0.4081108789431664,
+        "r2": 0.6222084041176386
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 43,
+            "weights": "uniform"
+        },
+        "mse": 0.42321672467638033,
+        "r2": 0.6082247985311324
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 43,
+            "weights": "distance"
+        },
+        "mse": 0.4090989560114618,
+        "r2": 0.6212937330521362
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 44,
+            "weights": "uniform"
+        },
+        "mse": 0.42621228295760183,
+        "r2": 0.6054517856025089
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 44,
+            "weights": "distance"
+        },
+        "mse": 0.4117912601782404,
+        "r2": 0.6188014449504272
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 45,
+            "weights": "uniform"
+        },
+        "mse": 0.4253771075713346,
+        "r2": 0.6062249143238911
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 45,
+            "weights": "distance"
+        },
+        "mse": 0.41126944440828805,
+        "r2": 0.6192844940987308
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 46,
+            "weights": "uniform"
+        },
+        "mse": 0.4270942672464514,
+        "r2": 0.6046353254951711
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 46,
+            "weights": "distance"
+        },
+        "mse": 0.41291184004558906,
+        "r2": 0.6177641149544821
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 47,
+            "weights": "uniform"
+        },
+        "mse": 0.4282246872252029,
+        "r2": 0.6035888864272008
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 47,
+            "weights": "distance"
+        },
+        "mse": 0.414036678766232,
+        "r2": 0.6167228425030287
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 48,
+            "weights": "uniform"
+        },
+        "mse": 0.43067166223187875,
+        "r2": 0.6013237015459493
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 48,
+            "weights": "distance"
+        },
+        "mse": 0.4161765867774391,
+        "r2": 0.6147419120640046
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 49,
+            "weights": "uniform"
+        },
+        "mse": 0.4318499727652926,
+        "r2": 0.6002329297978004
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 49,
+            "weights": "distance"
+        },
+        "mse": 0.4173324202213207,
+        "r2": 0.6136719475424289
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 50,
+            "weights": "uniform"
+        },
+        "mse": 0.4321204190546746,
+        "r2": 0.5999825754442711
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 50,
+            "weights": "distance"
+        },
+        "mse": 0.4176754673591166,
+        "r2": 0.6133543859866419
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 51,
+            "weights": "uniform"
+        },
+        "mse": 0.43486614490557796,
+        "r2": 0.5974408344503666
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 51,
+            "weights": "distance"
+        },
+        "mse": 0.4201426026300907,
+        "r2": 0.611070538582984
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 52,
+            "weights": "uniform"
+        },
+        "mse": 0.43503201839177547,
+        "r2": 0.5972872840004806
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 52,
+            "weights": "distance"
+        },
+        "mse": 0.4203657342165856,
+        "r2": 0.6108639838389105
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 53,
+            "weights": "uniform"
+        },
+        "mse": 0.4354193696596527,
+        "r2": 0.5969287097472351
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 53,
+            "weights": "distance"
+        },
+        "mse": 0.4208413672283623,
+        "r2": 0.6104236864495374
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 54,
+            "weights": "uniform"
+        },
+        "mse": 0.43785408725010355,
+        "r2": 0.5946748716569562
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 54,
+            "weights": "distance"
+        },
+        "mse": 0.42298885785424145,
+        "r2": 0.6084357367217716
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 55,
+            "weights": "uniform"
+        },
+        "mse": 0.44018441133199665,
+        "r2": 0.5925176714958106
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 55,
+            "weights": "distance"
+        },
+        "mse": 0.42511052494117807,
+        "r2": 0.6064716920563108
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 56,
+            "weights": "uniform"
+        },
+        "mse": 0.4427383151555519,
+        "r2": 0.5901535017296687
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 56,
+            "weights": "distance"
+        },
+        "mse": 0.42732916695316286,
+        "r2": 0.6044178769054627
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 57,
+            "weights": "uniform"
+        },
+        "mse": 0.4437188599521746,
+        "r2": 0.5892458033499796
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 57,
+            "weights": "distance"
+        },
+        "mse": 0.42818670293724875,
+        "r2": 0.6036240487948441
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 58,
+            "weights": "uniform"
+        },
+        "mse": 0.4449516692501178,
+        "r2": 0.5881045816474495
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 58,
+            "weights": "distance"
+        },
+        "mse": 0.42947520686435964,
+        "r2": 0.6024312701162053
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 59,
+            "weights": "uniform"
+        },
+        "mse": 0.4455610253705237,
+        "r2": 0.5875404956770265
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 59,
+            "weights": "distance"
+        },
+        "mse": 0.43010187026691094,
+        "r2": 0.6018511626524103
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 60,
+            "weights": "uniform"
+        },
+        "mse": 0.4455274807268245,
+        "r2": 0.587571548229483
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 60,
+            "weights": "distance"
+        },
+        "mse": 0.4303643394344235,
+        "r2": 0.6016081927861787
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 61,
+            "weights": "uniform"
+        },
+        "mse": 0.44590380374302885,
+        "r2": 0.5872231829194787
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 61,
+            "weights": "distance"
+        },
+        "mse": 0.4307888998571873,
+        "r2": 0.6012151737123432
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 62,
+            "weights": "uniform"
+        },
+        "mse": 0.4488159336514602,
+        "r2": 0.5845274003214456
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 62,
+            "weights": "distance"
+        },
+        "mse": 0.4331846547016289,
+        "r2": 0.5989974037563737
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 63,
+            "weights": "uniform"
+        },
+        "mse": 0.45016623050415877,
+        "r2": 0.5832774194235657
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 63,
+            "weights": "distance"
+        },
+        "mse": 0.43448847051472633,
+        "r2": 0.597790450738992
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 64,
+            "weights": "uniform"
+        },
+        "mse": 0.4519172861631495,
+        "r2": 0.5816564528039008
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 64,
+            "weights": "distance"
+        },
+        "mse": 0.43603209262392745,
+        "r2": 0.5963615070617625
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 65,
+            "weights": "uniform"
+        },
+        "mse": 0.45228256795014177,
+        "r2": 0.5813183084505528
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 65,
+            "weights": "distance"
+        },
+        "mse": 0.4365242891206675,
+        "r2": 0.5959058767181837
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 66,
+            "weights": "uniform"
+        },
+        "mse": 0.45321414565803275,
+        "r2": 0.5804559393074807
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 66,
+            "weights": "distance"
+        },
+        "mse": 0.4374281183206267,
+        "r2": 0.5950691945970359
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 67,
+            "weights": "uniform"
+        },
+        "mse": 0.4534166684542491,
+        "r2": 0.5802684622900014
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 67,
+            "weights": "distance"
+        },
+        "mse": 0.43773893510773293,
+        "r2": 0.5947814689418611
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 68,
+            "weights": "uniform"
+        },
+        "mse": 0.4538911620493029,
+        "r2": 0.5798292196680563
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 68,
+            "weights": "distance"
+        },
+        "mse": 0.4383631137188576,
+        "r2": 0.594203661669918
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 69,
+            "weights": "uniform"
+        },
+        "mse": 0.45591500515082484,
+        "r2": 0.5779557314701445
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 69,
+            "weights": "distance"
+        },
+        "mse": 0.44005731942339377,
+        "r2": 0.5926353215204783
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 70,
+            "weights": "uniform"
+        },
+        "mse": 0.45747090080714886,
+        "r2": 0.5765154260694374
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 70,
+            "weights": "distance"
+        },
+        "mse": 0.44144750610676275,
+        "r2": 0.5913484142783964
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 71,
+            "weights": "uniform"
+        },
+        "mse": 0.4591572843520998,
+        "r2": 0.5749543269574349
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 71,
+            "weights": "distance"
+        },
+        "mse": 0.44299648482608533,
+        "r2": 0.5899145119431386
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 72,
+            "weights": "uniform"
+        },
+        "mse": 0.4596296337088629,
+        "r2": 0.5745170692745041
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 72,
+            "weights": "distance"
+        },
+        "mse": 0.443586761911824,
+        "r2": 0.5893680875919636
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 73,
+            "weights": "uniform"
+        },
+        "mse": 0.4613111379505464,
+        "r2": 0.5729604869736509
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 73,
+            "weights": "distance"
+        },
+        "mse": 0.4450455854957186,
+        "r2": 0.5880176426067734
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 74,
+            "weights": "uniform"
+        },
+        "mse": 0.4614703283500677,
+        "r2": 0.5728131231120454
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 74,
+            "weights": "distance"
+        },
+        "mse": 0.44537699295207595,
+        "r2": 0.5877108559997886
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 75,
+            "weights": "uniform"
+        },
+        "mse": 0.46296444494642996,
+        "r2": 0.5714300070950558
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 75,
+            "weights": "distance"
+        },
+        "mse": 0.44670943678632175,
+        "r2": 0.5864774017878673
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 76,
+            "weights": "uniform"
+        },
+        "mse": 0.46352316607775074,
+        "r2": 0.5709127943503196
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 76,
+            "weights": "distance"
+        },
+        "mse": 0.4471937319198003,
+        "r2": 0.58602908580122
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 77,
+            "weights": "uniform"
+        },
+        "mse": 0.4620319330996676,
+        "r2": 0.5722932409781608
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 77,
+            "weights": "distance"
+        },
+        "mse": 0.4460888545790483,
+        "r2": 0.5870518798391977
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 78,
+            "weights": "uniform"
+        },
+        "mse": 0.46368740461273916,
+        "r2": 0.5707607573882093
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 78,
+            "weights": "distance"
+        },
+        "mse": 0.44751527811251257,
+        "r2": 0.5857314278470649
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 79,
+            "weights": "uniform"
+        },
+        "mse": 0.4650757488052381,
+        "r2": 0.5694755557550737
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 79,
+            "weights": "distance"
+        },
+        "mse": 0.448781406096631,
+        "r2": 0.5845593627628161
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 80,
+            "weights": "uniform"
+        },
+        "mse": 0.46467948119489644,
+        "r2": 0.5698423839398433
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 80,
+            "weights": "distance"
+        },
+        "mse": 0.44853910461968016,
+        "r2": 0.5847836632320877
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 81,
+            "weights": "uniform"
+        },
+        "mse": 0.46537298315616127,
+        "r2": 0.5692004034727403
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 81,
+            "weights": "distance"
+        },
+        "mse": 0.4492426867767816,
+        "r2": 0.5841323514448254
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 82,
+            "weights": "uniform"
+        },
+        "mse": 0.46655793209011964,
+        "r2": 0.5681034865026303
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 82,
+            "weights": "distance"
+        },
+        "mse": 0.4502706376907706,
+        "r2": 0.5831807688325454
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 83,
+            "weights": "uniform"
+        },
+        "mse": 0.4672886530544793,
+        "r2": 0.5674270520983697
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 83,
+            "weights": "distance"
+        },
+        "mse": 0.4509910477297281,
+        "r2": 0.5825138793367
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 84,
+            "weights": "uniform"
+        },
+        "mse": 0.4682736966504649,
+        "r2": 0.5665151891431239
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 84,
+            "weights": "distance"
+        },
+        "mse": 0.4519495602065073,
+        "r2": 0.5816265764566266
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 85,
+            "weights": "uniform"
+        },
+        "mse": 0.4691387302762843,
+        "r2": 0.5657144204039115
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 85,
+            "weights": "distance"
+        },
+        "mse": 0.45278678069133,
+        "r2": 0.5808515545706978
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 86,
+            "weights": "uniform"
+        },
+        "mse": 0.4702669919412701,
+        "r2": 0.5646699793047385
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 86,
+            "weights": "distance"
+        },
+        "mse": 0.4538021275336366,
+        "r2": 0.5799116396511974
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 87,
+            "weights": "uniform"
+        },
+        "mse": 0.4700955713860882,
+        "r2": 0.564828664721988
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 87,
+            "weights": "distance"
+        },
+        "mse": 0.45377463789654354,
+        "r2": 0.5799370870342578
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 88,
+            "weights": "uniform"
+        },
+        "mse": 0.4703653825654677,
+        "r2": 0.5645788982950095
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 88,
+            "weights": "distance"
+        },
+        "mse": 0.4540897914468854,
+        "r2": 0.5796453468017015
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 89,
+            "weights": "uniform"
+        },
+        "mse": 0.4718203993121423,
+        "r2": 0.5632319773303315
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 89,
+            "weights": "distance"
+        },
+        "mse": 0.455362858310075,
+        "r2": 0.5784668583400492
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 90,
+            "weights": "uniform"
+        },
+        "mse": 0.4733980493273431,
+        "r2": 0.5617715337407609
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 90,
+            "weights": "distance"
+        },
+        "mse": 0.45677883757212845,
+        "r2": 0.5771560746958277
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 91,
+            "weights": "uniform"
+        },
+        "mse": 0.47295226927299894,
+        "r2": 0.5621841960020055
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 91,
+            "weights": "distance"
+        },
+        "mse": 0.45649478561271584,
+        "r2": 0.5774190239299621
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 92,
+            "weights": "uniform"
+        },
+        "mse": 0.47345584519636247,
+        "r2": 0.5617180316296465
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 92,
+            "weights": "distance"
+        },
+        "mse": 0.45704350417712714,
+        "r2": 0.5769110706436492
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 93,
+            "weights": "uniform"
+        },
+        "mse": 0.47338343745577866,
+        "r2": 0.5617850600703983
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 93,
+            "weights": "distance"
+        },
+        "mse": 0.4571006072000525,
+        "r2": 0.5768582099058601
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 94,
+            "weights": "uniform"
+        },
+        "mse": 0.47421486681100183,
+        "r2": 0.561015399080751
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 94,
+            "weights": "distance"
+        },
+        "mse": 0.45792492150704944,
+        "r2": 0.5760951353748516
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 95,
+            "weights": "uniform"
+        },
+        "mse": 0.4743542822150175,
+        "r2": 0.5608863410950633
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 95,
+            "weights": "distance"
+        },
+        "mse": 0.4581028340152089,
+        "r2": 0.5759304403033576
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 96,
+            "weights": "uniform"
+        },
+        "mse": 0.47497839588315666,
+        "r2": 0.5603085939413759
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 96,
+            "weights": "distance"
+        },
+        "mse": 0.4586878872482924,
+        "r2": 0.5753888517155329
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 97,
+            "weights": "uniform"
+        },
+        "mse": 0.47596261097010856,
+        "r2": 0.5593974979437539
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 97,
+            "weights": "distance"
+        },
+        "mse": 0.45959221516904497,
+        "r2": 0.5745517079244464
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 98,
+            "weights": "uniform"
+        },
+        "mse": 0.4773925968452494,
+        "r2": 0.5580737482626437
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 98,
+            "weights": "distance"
+        },
+        "mse": 0.4608750366356418,
+        "r2": 0.5733641895462235
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 99,
+            "weights": "uniform"
+        },
+        "mse": 0.4776127040775335,
+        "r2": 0.5578699931881277
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 99,
+            "weights": "distance"
+        },
+        "mse": 0.46111964736804345,
+        "r2": 0.5731377513801954
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 100,
+            "weights": "uniform"
+        },
+        "mse": 0.47859056544153855,
+        "r2": 0.5569647788840741
+    },
+    {
+        "model": "K-Nearest Neighbor",
+        "params": {
+            "n_neighbors": 100,
+            "weights": "distance"
+        },
+        "mse": 0.4620369907313466,
+        "r2": 0.5722885590869348
+    }
+]
